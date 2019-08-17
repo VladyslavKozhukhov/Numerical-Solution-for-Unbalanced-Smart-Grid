@@ -1,0 +1,1925 @@
+SourceBus 1
+SourceBus_1 {'len': '"26.400000000000002"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus1 2
+SourceBus_1 {'len': '"0.25"', 'color': '"1"', 'penwidth': '"5"'}
+Bus2 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus2 1
+Bus3 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus3 1
+Bus4 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus4 1
+Bus5 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus5 1
+Bus6 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus6 1
+Bus7 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus7 1
+Bus8 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus8 1
+Bus9 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus9 1
+Bus10 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus10 1
+Bus11 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus11 1
+Bus12 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus12 1
+Bus13 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus13 1
+Bus14 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus14 1
+Bus15 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus15 2
+Bus16 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus17 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus16 1
+Bus18 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus17 1
+Bus19 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus18 1
+Bus20 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus19 1
+Bus21 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus20 1
+Bus22 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus21 1
+Bus23 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus22 1
+Bus24 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus23 1
+Bus25 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus24 1
+Bus26 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus25 2
+Bus27 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus28 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus26 1
+Bus29 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus27 2
+Bus30 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus31 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus28 1
+Bus32 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus29 1
+Bus33 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus30 1
+Bus34 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus31 1
+Bus35 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus32 2
+Bus36 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus37 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus33 1
+Bus38 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus34 1
+LOAD1 {'len': '"0.25"'}
+Bus35 1
+Bus39 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus36 2
+Bus40 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus41 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus37 2
+Bus42 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus43 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus38 1
+Bus44 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus39 1
+Bus45 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus40 1
+Bus46 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus41 1
+Bus47 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus42 1
+Bus48 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus43 1
+Bus49 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus44 1
+Bus50 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus45 1
+Bus51 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus46 1
+Bus52 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus47 1
+LOAD2 {'len': '"0.25"'}
+Bus48 2
+Bus53 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus54 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus49 1
+Bus55 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus50 1
+Bus56 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus51 1
+Bus57 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus52 1
+Bus58 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus53 1
+Bus59 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus54 1
+Bus60 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus55 1
+Bus61 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus56 1
+Bus62 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus57 1
+Bus63 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus58 1
+Bus64 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus59 2
+Bus65 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus66 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus60 1
+Bus67 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus61 1
+Bus68 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus62 1
+Bus69 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus63 1
+Bus70 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus64 1
+Bus71 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus65 1
+Bus72 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus66 2
+Bus73 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus74 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus67 1
+Bus75 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus68 1
+Bus76 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus69 1
+Bus77 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus70 1
+LOAD3 {'len': '"0.25"'}
+Bus71 1
+Bus78 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus72 1
+Bus79 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus73 1
+LOAD4 {'len': '"0.25"'}
+Bus74 1
+LOAD5 {'len': '"0.25"'}
+Bus75 1
+Bus80 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus76 1
+Bus81 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus77 1
+Bus82 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus78 1
+Bus83 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus79 1
+Bus84 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus80 1
+Bus85 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus81 1
+Bus86 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus82 1
+Bus87 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus83 1
+LOAD6 {'len': '"0.25"'}
+Bus84 1
+Bus88 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus85 1
+Bus89 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus86 1
+Bus90 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus87 1
+Bus91 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus88 1
+Bus92 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus89 0
+Bus90 1
+Bus93 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus91 1
+Bus94 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus92 1
+Bus95 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus93 1
+Bus96 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus94 1
+Bus97 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus95 1
+Bus98 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus96 1
+Bus99 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus97 1
+Bus100 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus98 1
+Bus101 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus99 1
+Bus102 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus100 1
+Bus103 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus101 2
+Bus104 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus105 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus102 1
+Bus106 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus103 0
+Bus104 1
+Bus107 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus105 1
+Bus108 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus106 1
+Bus109 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus107 1
+Bus110 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus108 1
+Bus111 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus109 1
+Bus112 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus110 1
+Bus113 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus111 1
+Bus114 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus112 1
+Bus115 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus113 1
+Bus116 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus114 2
+Bus117 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus118 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus115 1
+Bus119 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus116 1
+Bus120 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus117 2
+Bus121 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus122 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus118 1
+Bus123 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus119 1
+Bus124 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus120 1
+Bus125 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus121 1
+Bus126 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus122 1
+Bus127 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus123 1
+Bus128 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus124 1
+Bus129 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus125 1
+Bus130 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus126 1
+Bus131 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus127 2
+Bus132 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus133 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus128 1
+Bus134 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus129 1
+Bus135 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus130 1
+Bus136 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus131 1
+Bus137 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus132 1
+Bus138 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus133 1
+Bus139 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus134 1
+Bus140 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus135 1
+Bus141 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus136 1
+Bus142 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus137 1
+Bus143 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus138 1
+Bus144 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus139 1
+Bus145 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus140 1
+Bus146 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus141 1
+Bus147 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus142 1
+Bus148 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus143 1
+Bus149 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus144 1
+Bus150 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus145 2
+Bus151 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus152 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus146 1
+Bus153 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus147 1
+Bus154 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus148 1
+Bus155 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus149 1
+Bus156 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus150 1
+Bus157 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus151 1
+Bus158 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus152 1
+Bus159 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus153 1
+Bus160 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus154 1
+Bus161 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus155 2
+Bus162 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus163 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus156 1
+Bus164 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus157 1
+Bus165 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus158 1
+Bus166 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus159 1
+Bus167 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus160 1
+Bus168 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus161 1
+Bus169 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus162 1
+Bus170 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus163 1
+Bus171 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus164 1
+Bus172 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus165 1
+Bus173 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus166 2
+Bus174 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus175 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus167 1
+Bus176 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus168 1
+Bus177 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus169 0
+Bus170 1
+Bus178 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus171 2
+Bus179 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus180 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus172 1
+Bus181 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus173 1
+Bus182 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus174 1
+Bus183 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus175 1
+Bus184 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus176 1
+Bus185 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus177 1
+Bus186 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus178 1
+LOAD7 {'len': '"0.25"'}
+Bus179 1
+Bus187 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus180 1
+Bus188 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus181 1
+Bus189 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus182 1
+Bus190 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus183 2
+Bus191 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus192 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus184 1
+Bus193 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus185 1
+Bus194 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus186 1
+Bus195 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus187 1
+Bus196 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus188 2
+Bus197 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus198 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus189 1
+Bus199 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus190 1
+Bus200 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus191 1
+Bus201 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus192 1
+Bus202 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus193 1
+Bus203 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus194 1
+Bus204 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus195 1
+Bus205 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus196 2
+Bus206 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus207 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus197 1
+Bus208 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus198 1
+Bus209 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus199 1
+Bus210 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus200 1
+Bus211 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus201 0
+Bus202 1
+Bus212 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus203 1
+Bus213 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus204 1
+Bus214 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus205 1
+Bus215 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus206 1
+Bus216 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus207 1
+Bus217 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus208 1
+LOAD8 {'len': '"0.25"'}
+Bus209 1
+Bus218 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus210 1
+Bus219 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus211 1
+Bus220 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus212 1
+Bus221 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus213 1
+Bus222 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus214 1
+Bus223 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus215 1
+Bus224 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus216 1
+Bus225 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus217 1
+Bus226 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus218 1
+Bus227 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus219 0
+Bus220 1
+Bus228 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus221 1
+Bus229 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus222 1
+Bus230 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus223 1
+Bus231 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus224 1
+Bus232 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus225 1
+LOAD9 {'len': '"0.25"'}
+Bus226 2
+Bus233 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus234 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus227 1
+Bus235 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus228 1
+Bus236 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus229 1
+Bus237 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus230 1
+Bus238 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus231 1
+Bus239 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus232 1
+Bus240 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus233 1
+Bus241 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus234 0
+Bus235 1
+Bus242 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus236 1
+Bus243 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus237 1
+Bus244 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus238 1
+Bus245 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus239 1
+Bus246 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus240 1
+Bus247 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus241 2
+Bus248 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus249 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus242 1
+Bus250 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus243 1
+Bus251 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus244 1
+Bus252 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus245 1
+Bus253 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus246 1
+Bus254 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus247 2
+Bus255 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus256 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus248 1
+LOAD10 {'len': '"0.25"'}
+Bus249 1
+LOAD11 {'len': '"0.25"'}
+Bus250 1
+Bus257 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus251 1
+Bus258 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus252 1
+Bus259 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus253 1
+Bus260 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus254 1
+Bus261 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus255 1
+Bus262 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus256 1
+Bus263 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus257 1
+Bus264 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus258 1
+Bus265 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus259 1
+Bus266 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus260 1
+Bus267 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus261 2
+Bus268 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus269 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus262 1
+Bus270 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus263 2
+Bus271 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus272 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus264 1
+LOAD12 {'len': '"0.25"'}
+Bus265 1
+Bus273 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus266 1
+Bus274 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus267 1
+Bus275 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus268 1
+Bus276 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus269 1
+Bus277 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus270 1
+Bus278 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus271 1
+Bus279 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus272 1
+Bus280 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus273 1
+Bus281 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus274 1
+Bus282 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus275 1
+Bus283 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus276 1
+LOAD13 {'len': '"0.25"'}
+Bus277 1
+Bus284 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus278 1
+Bus285 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus279 1
+Bus286 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus280 2
+Bus287 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus288 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus281 1
+Bus289 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus282 1
+Bus290 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus283 2
+Bus291 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus292 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus284 1
+Bus293 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus285 1
+Bus294 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus286 1
+Bus295 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus287 1
+Bus296 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus288 1
+Bus297 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus289 1
+LOAD14 {'len': '"0.25"'}
+Bus290 0
+Bus291 1
+Bus298 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus292 1
+Bus299 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus293 1
+Bus300 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus294 1
+Bus301 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus295 1
+Bus302 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus296 1
+Bus303 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus297 1
+Bus304 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus298 1
+Bus305 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus299 1
+Bus306 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus300 1
+Bus307 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus301 1
+Bus308 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus302 1
+Bus309 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus303 1
+Bus310 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus304 1
+Bus311 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus305 1
+Bus312 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus306 1
+Bus313 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus307 1
+Bus314 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus308 1
+Bus315 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus309 1
+Bus316 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus310 2
+Bus317 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus318 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus311 1
+Bus319 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus312 1
+Bus320 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus313 1
+Bus321 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus314 1
+LOAD15 {'len': '"0.25"'}
+Bus315 1
+Bus322 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus316 1
+Bus323 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus317 1
+Bus324 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus318 1
+Bus325 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus319 1
+Bus326 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus320 1
+LOAD16 {'len': '"0.25"'}
+Bus321 1
+Bus327 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus322 1
+Bus328 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus323 1
+Bus329 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus324 1
+Bus330 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus325 2
+Bus331 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus332 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus326 1
+Bus333 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus327 1
+LOAD17 {'len': '"0.25"'}
+Bus328 1
+Bus334 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus329 1
+Bus335 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus330 1
+Bus336 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus331 1
+Bus337 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus332 2
+Bus338 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus339 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus333 1
+Bus340 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus334 1
+Bus341 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus335 1
+Bus342 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus336 2
+Bus343 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus344 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus337 1
+LOAD18 {'len': '"0.25"'}
+Bus338 1
+Bus345 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus339 1
+Bus346 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus340 1
+Bus347 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus341 1
+Bus348 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus342 1
+LOAD19 {'len': '"0.25"'}
+Bus343 1
+Bus349 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus344 1
+Bus350 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus345 1
+Bus351 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus346 1
+Bus352 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus347 1
+Bus353 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus348 1
+Bus354 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus349 1
+LOAD20 {'len': '"0.25"'}
+Bus350 1
+Bus355 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus351 1
+Bus356 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus352 1
+Bus357 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus353 1
+Bus358 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus354 1
+Bus359 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus355 1
+Bus360 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus356 1
+Bus361 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus357 1
+Bus362 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus358 1
+Bus363 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus359 1
+Bus364 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus360 1
+Bus365 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus361 1
+Bus366 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus362 1
+Bus367 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus363 1
+Bus368 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus364 1
+Bus369 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus365 1
+Bus370 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus366 1
+Bus371 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus367 1
+Bus372 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus368 1
+Bus373 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus369 1
+Bus374 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus370 1
+Bus375 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus371 1
+Bus376 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus372 1
+Bus377 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus373 2
+Bus378 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus379 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus374 1
+Bus380 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus375 1
+Bus381 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus376 1
+Bus382 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus377 1
+Bus383 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus378 1
+Bus384 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus379 2
+Bus385 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus386 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus380 1
+Bus387 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus381 1
+Bus388 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus382 1
+Bus389 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus383 1
+Bus390 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus384 1
+Bus391 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus385 1
+Bus392 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus386 1
+Bus393 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus387 1
+LOAD21 {'len': '"0.25"'}
+Bus388 1
+LOAD22 {'len': '"0.25"'}
+Bus389 1
+Bus394 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus390 1
+Bus395 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus391 2
+Bus396 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus397 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus392 1
+Bus398 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus393 1
+Bus399 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus394 1
+Bus400 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus395 1
+Bus401 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus396 1
+Bus402 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus397 1
+Bus403 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus398 1
+Bus404 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus399 1
+Bus405 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus400 1
+Bus406 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus401 1
+Bus407 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus402 1
+Bus408 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus403 2
+Bus409 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus410 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus404 1
+Bus411 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus405 1
+Bus412 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus406 1
+LOAD23 {'len': '"0.25"'}
+Bus407 1
+Bus413 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus408 1
+Bus414 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus409 1
+Bus415 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus410 1
+Bus416 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus411 1
+Bus417 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus412 1
+Bus418 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus413 1
+Bus419 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus414 1
+Bus420 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus415 1
+Bus421 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus416 1
+Bus422 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus417 1
+Bus423 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus418 1
+Bus424 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus419 2
+Bus425 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus426 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus420 1
+Bus427 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus421 1
+Bus428 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus422 1
+Bus429 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus423 1
+Bus430 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus424 1
+Bus431 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus425 2
+Bus432 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus433 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus426 0
+Bus427 1
+Bus434 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus428 1
+Bus435 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus429 1
+Bus436 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus430 1
+Bus437 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus431 1
+Bus438 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus432 2
+Bus439 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus440 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus433 0
+Bus434 1
+Bus441 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus435 1
+Bus442 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus436 1
+Bus443 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus437 1
+Bus444 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus438 1
+Bus445 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus439 2
+Bus446 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus447 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus440 0
+Bus441 1
+Bus448 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus442 1
+Bus449 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus443 1
+Bus450 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus444 1
+Bus451 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus445 1
+Bus452 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus446 2
+Bus453 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus454 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus447 0
+Bus448 1
+Bus455 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus449 1
+Bus456 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus450 1
+Bus457 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus451 1
+Bus458 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus452 1
+Bus459 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus453 3
+Bus460 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus461 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus462 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus454 0
+Bus455 1
+Bus463 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus456 1
+Bus464 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus457 1
+Bus465 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus458 1
+LOAD24 {'len': '"0.25"'}
+Bus459 1
+Bus466 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus460 3
+Bus467 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus468 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus469 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus461 0
+Bus462 1
+Bus470 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus463 1
+Bus471 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus464 1
+Bus472 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus465 1
+Bus473 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus466 1
+Bus474 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus467 2
+Bus475 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus476 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus468 0
+Bus469 0
+Bus470 1
+Bus477 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus471 1
+Bus478 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus472 1
+Bus479 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus473 1
+Bus480 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus474 1
+Bus481 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus475 3
+Bus482 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus483 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus484 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus476 0
+Bus477 1
+Bus485 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus478 1
+Bus486 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus479 1
+Bus487 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus480 1
+Bus488 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus481 1
+Bus489 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus482 2
+Bus490 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus491 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus483 0
+Bus484 2
+Bus492 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus493 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus485 1
+Bus494 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus486 1
+Bus495 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus487 1
+Bus496 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus488 1
+Bus497 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus489 1
+Bus498 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus490 2
+Bus499 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus500 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus491 0
+Bus492 1
+Bus501 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus493 1
+Bus502 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus494 1
+Bus503 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus495 1
+Bus504 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus496 1
+Bus505 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus497 1
+Bus506 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus498 1
+Bus507 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus499 2
+Bus508 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus509 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus500 0
+Bus501 1
+Bus510 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus502 1
+LOAD25 {'len': '"0.25"'}
+Bus503 1
+Bus511 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus504 1
+Bus512 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus505 2
+Bus513 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus514 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus506 1
+Bus515 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus507 0
+Bus508 3
+Bus516 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus517 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus518 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus509 0
+Bus510 1
+Bus519 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus511 1
+Bus520 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus512 1
+Bus521 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus513 1
+Bus522 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus514 1
+Bus523 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus515 1
+Bus524 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus516 2
+Bus525 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus526 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus517 0
+Bus518 1
+Bus527 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus519 1
+Bus528 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus520 1
+Bus529 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus521 1
+Bus530 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus522 1
+LOAD26 {'len': '"0.25"'}
+Bus523 1
+Bus531 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus524 1
+Bus532 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus525 2
+Bus533 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus534 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus526 0
+Bus527 1
+Bus535 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus528 1
+Bus536 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus529 1
+Bus537 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus530 2
+Bus538 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus539 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus531 1
+Bus540 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus532 1
+Bus541 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus533 2
+Bus542 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus543 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus534 0
+Bus535 1
+Bus544 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus536 1
+Bus545 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus537 1
+Bus546 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus538 1
+Bus547 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus539 1
+LOAD27 {'len': '"0.25"'}
+Bus540 1
+Bus548 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus541 1
+Bus549 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus542 2
+Bus550 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus551 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus543 0
+Bus544 2
+Bus552 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus553 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus545 1
+Bus554 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus546 1
+Bus555 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus547 1
+Bus556 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus548 1
+Bus557 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus549 1
+Bus558 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus550 2
+Bus559 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus560 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus551 0
+Bus552 1
+Bus561 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus553 1
+Bus562 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus554 1
+Bus563 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus555 1
+Bus564 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus556 1
+LOAD28 {'len': '"0.25"'}
+Bus557 1
+Bus565 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus558 1
+Bus566 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus559 3
+Bus567 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus568 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus569 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus560 0
+Bus561 1
+Bus570 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus562 1
+LOAD29 {'len': '"0.25"'}
+Bus563 1
+LOAD30 {'len': '"0.25"'}
+Bus564 1
+Bus571 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus565 1
+Bus572 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus566 0
+Bus567 2
+Bus573 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus574 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus568 0
+Bus569 1
+Bus575 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus570 1
+Bus576 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus571 1
+Bus577 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus572 1
+Bus578 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus573 3
+Bus579 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus580 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus581 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus574 0
+Bus575 1
+Bus582 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus576 1
+Bus583 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus577 1
+Bus584 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus578 2
+Bus585 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus586 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus579 2
+Bus587 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus588 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus580 0
+Bus581 1
+Bus589 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus582 1
+Bus590 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus583 1
+Bus591 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus584 1
+Bus592 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus585 1
+Bus593 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus586 1
+Bus594 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus587 2
+Bus595 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus596 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus588 0
+Bus589 1
+Bus597 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus590 1
+Bus598 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus591 1
+Bus599 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus592 1
+Bus600 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus593 1
+Bus601 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus594 2
+Bus602 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus603 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus595 3
+Bus604 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus605 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus606 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus596 2
+Bus607 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus608 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus597 1
+Bus609 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus598 1
+Bus610 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus599 1
+Bus611 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus600 1
+Bus612 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus601 1
+Bus613 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus602 1
+Bus614 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus603 1
+Bus615 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus604 3
+Bus616 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus617 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus618 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus605 0
+Bus606 0
+Bus607 1
+Bus619 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus608 0
+Bus609 1
+Bus620 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus610 1
+Bus621 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus611 1
+LOAD31 {'len': '"0.25"'}
+Bus612 1
+Bus622 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus613 1
+Bus623 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus614 1
+LOAD32 {'len': '"0.25"'}
+Bus615 2
+Bus624 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus625 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus616 1
+Bus626 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus617 0
+Bus618 0
+Bus619 1
+LOAD33 {'len': '"0.25"'}
+Bus620 1
+Bus627 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus621 1
+Bus628 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus622 1
+Bus629 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus623 1
+Bus630 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus624 1
+Bus631 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus625 1
+Bus632 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus626 1
+Bus633 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus627 1
+Bus634 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus628 1
+Bus635 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus629 1
+LOAD34 {'len': '"0.25"'}
+Bus630 1
+Bus636 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus631 1
+Bus637 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus632 1
+Bus638 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus633 1
+Bus639 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus634 1
+Bus640 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus635 1
+Bus641 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus636 1
+Bus642 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus637 1
+Bus643 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus638 1
+Bus644 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus639 1
+LOAD35 {'len': '"0.25"'}
+Bus640 1
+Bus645 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus641 1
+Bus646 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus642 1
+Bus647 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus643 1
+Bus648 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus644 1
+Bus649 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus645 1
+Bus650 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus646 1
+Bus651 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus647 1
+Bus652 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus648 1
+Bus653 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus649 1
+Bus654 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus650 1
+Bus655 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus651 2
+Bus656 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus657 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus652 1
+Bus658 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus653 1
+Bus659 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus654 1
+Bus660 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus655 1
+Bus661 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus656 1
+Bus662 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus657 1
+Bus663 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus658 1
+Bus664 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus659 1
+Bus665 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus660 1
+Bus666 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus661 1
+Bus667 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus662 1
+Bus668 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus663 1
+Bus669 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus664 1
+Bus670 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus665 1
+Bus671 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus666 2
+Bus672 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus673 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus667 1
+Bus674 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus668 1
+Bus675 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus669 1
+Bus676 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus670 1
+Bus677 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus671 1
+Bus678 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus672 1
+Bus679 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus673 1
+Bus680 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus674 1
+Bus681 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus675 1
+Bus682 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus676 1
+LOAD36 {'len': '"0.25"'}
+Bus677 1
+Bus683 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus678 1
+Bus684 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus679 1
+Bus685 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus680 1
+Bus686 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus681 0
+Bus682 1
+LOAD37 {'len': '"0.25"'}
+Bus683 1
+Bus687 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus684 1
+Bus688 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus685 1
+Bus689 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus686 2
+Bus690 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus691 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus687 1
+Bus692 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus688 1
+LOAD38 {'len': '"0.25"'}
+Bus689 1
+Bus693 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus690 2
+Bus694 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus695 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus691 2
+Bus696 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus697 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus692 1
+Bus698 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus693 1
+Bus699 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus694 1
+Bus700 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus695 1
+Bus701 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus696 1
+Bus702 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus697 1
+Bus703 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus698 1
+Bus704 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus699 1
+Bus705 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus700 1
+Bus706 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus701 1
+LOAD39 {'len': '"0.25"'}
+Bus702 1
+LOAD40 {'len': '"0.25"'}
+Bus703 2
+Bus707 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus708 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus704 1
+Bus709 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus705 1
+Bus710 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus706 1
+Bus711 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus707 2
+Bus712 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus713 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus708 1
+Bus714 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus709 1
+Bus715 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus710 1
+Bus716 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus711 1
+Bus717 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus712 1
+Bus718 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus713 1
+Bus719 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus714 1
+Bus720 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus715 1
+Bus721 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus716 1
+Bus722 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus717 1
+Bus723 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus718 2
+Bus724 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus725 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus719 1
+Bus726 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus720 1
+Bus727 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus721 1
+Bus728 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus722 1
+Bus729 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus723 1
+Bus730 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus724 1
+Bus731 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus725 1
+Bus732 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus726 1
+Bus733 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus727 1
+Bus734 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus728 1
+Bus735 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus729 1
+Bus736 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus730 1
+Bus737 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus731 1
+Bus738 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus732 1
+Bus739 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus733 1
+Bus740 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus734 1
+Bus741 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus735 1
+Bus742 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus736 1
+Bus743 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus737 1
+Bus744 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus738 1
+Bus745 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus739 2
+Bus746 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus747 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus740 1
+Bus748 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus741 1
+Bus749 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus742 1
+Bus750 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus743 1
+Bus751 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus744 1
+Bus752 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus745 2
+Bus753 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus754 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus746 1
+Bus755 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus747 1
+Bus756 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus748 1
+Bus757 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus749 1
+Bus758 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus750 1
+Bus759 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus751 1
+Bus760 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus752 1
+Bus761 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus753 1
+Bus762 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus754 1
+Bus763 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus755 1
+LOAD41 {'len': '"0.25"'}
+Bus756 1
+Bus764 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus757 1
+Bus765 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus758 1
+Bus766 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus759 1
+Bus767 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus760 1
+Bus768 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus761 1
+Bus769 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus762 1
+Bus770 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus763 2
+Bus771 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus772 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus764 1
+Bus773 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus765 1
+Bus774 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus766 1
+Bus775 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus767 1
+Bus776 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus768 1
+Bus777 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus769 1
+Bus778 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus770 1
+Bus779 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus771 1
+Bus780 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus772 1
+Bus781 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus773 1
+Bus782 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus774 1
+Bus783 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus775 1
+Bus784 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus776 1
+Bus785 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus777 1
+Bus786 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus778 1
+LOAD42 {'len': '"0.25"'}
+Bus779 1
+Bus787 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus780 1
+LOAD43 {'len': '"0.25"'}
+Bus781 1
+Bus788 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus782 1
+Bus789 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus783 1
+Bus790 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus784 1
+Bus791 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus785 1
+LOAD44 {'len': '"0.25"'}
+Bus786 2
+Bus792 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus793 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus787 1
+Bus794 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus788 1
+Bus795 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus789 1
+Bus796 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus790 1
+Bus797 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus791 1
+Bus798 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus792 1
+Bus799 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus793 1
+Bus800 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus794 2
+Bus801 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus802 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus795 1
+Bus803 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus796 1
+Bus804 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus797 1
+Bus805 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus798 1
+Bus806 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus799 1
+Bus807 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus800 1
+Bus808 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus801 1
+Bus809 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus802 2
+Bus810 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus811 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus803 1
+Bus812 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus804 1
+Bus813 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus805 1
+Bus814 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus806 1
+Bus815 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus807 1
+Bus816 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus808 1
+Bus817 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus809 1
+Bus818 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus810 2
+Bus819 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus820 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus811 0
+Bus812 1
+Bus821 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus813 1
+LOAD45 {'len': '"0.25"'}
+Bus814 1
+Bus822 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus815 1
+Bus823 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus816 1
+Bus824 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus817 1
+LOAD46 {'len': '"0.25"'}
+Bus818 1
+Bus825 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus819 2
+Bus826 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus827 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus820 0
+Bus821 1
+Bus828 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus822 1
+Bus829 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus823 1
+Bus830 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus824 1
+Bus831 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus825 1
+Bus832 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus826 2
+Bus833 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus834 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus827 0
+Bus828 1
+Bus835 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus829 1
+Bus836 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus830 0
+Bus831 1
+Bus837 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus832 1
+Bus838 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus833 2
+Bus839 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus840 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus834 0
+Bus835 1
+LOAD47 {'len': '"0.25"'}
+Bus836 1
+Bus841 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus837 1
+Bus842 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus838 1
+Bus843 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus839 3
+Bus844 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus845 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus846 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus840 0
+Bus841 1
+Bus847 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus842 1
+Bus848 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus843 1
+Bus849 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus844 1
+Bus850 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus845 2
+Bus851 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus852 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus846 0
+Bus847 1
+Bus853 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus848 1
+Bus854 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus849 1
+Bus855 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus850 1
+Bus856 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus851 2
+Bus857 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus858 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus852 0
+Bus853 1
+Bus859 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus854 2
+Bus860 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus861 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus855 1
+Bus862 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus856 1
+Bus863 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus857 2
+Bus864 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus865 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus858 0
+Bus859 1
+Bus866 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus860 1
+LOAD48 {'len': '"0.25"'}
+Bus861 1
+LOAD49 {'len': '"0.25"'}
+Bus862 1
+Bus867 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus863 1
+Bus868 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus864 2
+Bus869 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus870 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus865 0
+Bus866 1
+Bus871 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus867 1
+Bus872 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus868 2
+Bus873 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus874 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus869 2
+Bus875 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus876 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus870 0
+Bus871 1
+Bus877 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus872 1
+Bus878 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus873 1
+Bus879 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus874 1
+Bus880 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus875 2
+Bus881 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus882 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus876 0
+Bus877 1
+Bus883 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus878 1
+Bus884 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus879 1
+Bus885 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus880 1
+Bus886 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus881 0
+Bus882 0
+Bus883 1
+Bus887 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus884 2
+Bus888 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus889 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus885 1
+Bus890 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus886 1
+LOAD50 {'len': '"0.25"'}
+Bus887 1
+Bus891 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus888 1
+Bus892 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus889 1
+Bus893 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus890 1
+Bus894 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus891 2
+Bus895 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus896 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus892 1
+Bus897 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus893 1
+Bus898 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus894 1
+Bus899 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus895 1
+Bus900 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus896 1
+LOAD51 {'len': '"0.25"'}
+Bus897 1
+Bus901 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus898 1
+LOAD52 {'len': '"0.25"'}
+Bus899 1
+LOAD53 {'len': '"0.25"'}
+Bus900 1
+LOAD54 {'len': '"0.25"'}
+Bus901 1
+Bus902 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus902 1
+Bus903 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus903 1
+Bus904 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus904 1
+Bus905 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus905 1
+Bus906 {'len': '"0.25"', 'weight': '"5"', 'color': '"5"', 'penwidth': '"2"'}
+Bus906 1
+LOAD55 {'len': '"0.25"'}
+SourceBus_1 0
+LOAD1 0
+LOAD2 0
+LOAD3 0
+LOAD4 0
+LOAD5 0
+LOAD6 0
+LOAD7 0
+LOAD8 0
+LOAD9 0
+LOAD10 0
+LOAD11 0
+LOAD12 0
+LOAD13 0
+LOAD14 0
+LOAD15 0
+LOAD16 0
+LOAD17 0
+LOAD18 0
+LOAD19 0
+LOAD20 0
+LOAD21 0
+LOAD22 0
+LOAD23 0
+LOAD24 0
+LOAD25 0
+LOAD26 0
+LOAD27 0
+LOAD28 0
+LOAD29 0
+LOAD30 0
+LOAD31 0
+LOAD32 0
+LOAD33 0
+LOAD34 0
+LOAD35 0
+LOAD36 0
+LOAD37 0
+LOAD38 0
+LOAD39 0
+LOAD40 0
+LOAD41 0
+LOAD42 0
+LOAD43 0
+LOAD44 0
+LOAD45 0
+LOAD46 0
+LOAD47 0
+LOAD48 0
+LOAD49 0
+LOAD50 0
+LOAD51 0
+LOAD52 0
+LOAD53 0
+LOAD54 0
+LOAD55 0

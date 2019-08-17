@@ -1,0 +1,11 @@
+# file...... output_power.csv
+# date...... Mon Jun 10 20:59:53 2019
+# user...... vladko
+# host...... (null)
+# target.... transformer 1031
+# trigger... (none)
+# interval.. 0
+# limit..... 0
+# timestamp,power_out.real,power_out.imag,power_out_A.real,power_out_A.imag,power_out_B.real,power_out_B.imag,power_out_C.real,power_out_C.imag
+2000-01-01 00:01:00 UTC,+178148,+55729,+75370.2,+24285,+41305.8,+12063.5,+61471.8,+19380.5
+2000-01-01 00:02:00 UTC,+178171,+55736.4,+75369.9,+24284,+41340,+12073.5,+61461.5,+19378.9

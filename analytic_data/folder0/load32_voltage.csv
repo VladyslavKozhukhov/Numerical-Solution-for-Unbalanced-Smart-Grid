@@ -1,0 +1,11 @@
+# file...... load32_voltage.csv
+# date...... Sat Jun  8 12:14:48 2019
+# user...... vladko
+# host...... (null)
+# target.... load 982
+# trigger... (none)
+# interval.. 0
+# limit..... 0
+# timestamp,voltage_C.real,voltage_C.imag
+2000-01-01 00:01:00 UTC,+2.65083,+235.268
+2000-01-01 00:02:00 UTC,+2.65532,+235.271
